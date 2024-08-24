@@ -48,18 +48,18 @@ const Work = () => {
                                 Filesharing App
                             </span>
                             <div className="pt-8 text-center">
-                                <a href="http://">
+                                <a href="https://file-sharing-app-opal-nine.vercel.app/">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                                 </a>
-                                <a href="https://github.com/shashwat200130/File-Share">
+                                <a href="https://github.com/shashwat200130/File-sharing-app">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                                 </a>
                             </div>
                         </div>
                     </div>
-                     {/* Grid Item */}
+                    {/* Grid Item */}
 
-                     <div style={{ backgroundImage: `url(${Trading})` }}
+                    <div style={{ backgroundImage: `url(${Trading})` }}
                         className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
                         {/* Hover Effect */}
                         <div className="opacity-0 group-hover:opacity-100">
@@ -87,15 +87,15 @@ const Work = () => {
                                 <a href="http://">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                                 </a>
-                                <a href="http://">
+                                <a href="https://github.com/shashwat200130/react-portfolio">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                                 </a>
                             </div>
                         </div>
                     </div>
-                     {/* Grid Item */}
+                    {/* Grid Item */}
 
-                     <div style={{ backgroundImage: `url(${MLAPP})` }}
+                    <div style={{ backgroundImage: `url(${MLAPP})` }}
                         className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
                         {/* Hover Effect */}
                         <div className="opacity-0 group-hover:opacity-100">
